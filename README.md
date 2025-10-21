@@ -6,7 +6,7 @@ This repository contains materials focusing on distributed systems architecture,
 
 ## 📚 Contents
 
-### 1. **Message Queues_Final.pdf**
+### 1. **Message Queues.pdf**
 Presentation slides covering benchmarking methodologies and performance analysis of message queue systems. This presentation explores:
 - Message queue architectures and patterns
 - Benchmarking methodologies for distributed messaging systems
